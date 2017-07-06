@@ -1,4 +1,6 @@
 # BullCowGame
+by Jason Ligon
+
 A simple word game
 
 Compile and guess the word
